@@ -1,0 +1,115 @@
+body{ text-align: center; font-family: Tahoma, Arial, Geneva, sans-serif; color:#797979;}
+#cont{ width: 693px; margin: 0 auto 0 auto; text-align: left;}
+#encabezado{ height: 32px; margin-bottom: 40px; width: 693px; background: url(Images/titulo.jpg) no-repeat; overflow: hidden; text-indent: -9999%; display: block;} 
+#contenido{ width: 500px; float: left; margin-bottom: 70px;}
+#contenido p{font-size: 17px;}       
+ 
+#menu{ width: 180px; float: left; text-transform: uppercase;}  
+
+
+#activismo { width: 1875px; height: 750px;}  
+
+#pie{ clear: both;  height: 296px; background-position: bottom right;}
+#pie h2{ font-size: 18px; color: #464545; font-weight: normal;}
+#pie p{ text-align: center; font-size: 13px; padding-top: 10px; clear: both;}
+ 
+#menu ul li{border-left: 4px solid #e93700; margin-top: 6px; padding: 2px 0 2px 4px; list-style:none; }
+#menu ul li a{ font-size: 12px; color: #464545; text-decoration: none;}
+#menu ul li a:hover{ color: #e93700;}
+#menu ul{ margin:0; padding-left:80px; }
+#menu h3 {color: #e93700; font-size: 18px; font-weight: normal; padding-left: 80px;}
+
+#formulario1 {
+width: 80%;
+height: 78px;
+margin-left: auto;
+margin-right: auto;
+border: 1px solid black;
+background-color: #FAFAFA;
+}
+#formularioname {
+	float: left;
+	margin-left: 50px;
+}
+#formulariolastname {
+	float: left;
+	margin-left: 70px;
+}
+#formulariofechain {
+	float: left;
+	margin-left: 90px;
+}
+#formulariofechaout {
+	float: left;
+	margin-left: 110px;
+}
+#formulario2 {
+width: 80%;
+height: 78px;
+margin-left: auto;
+margin-right: auto;
+border: 1px solid black;
+background-color: #FAFAFA;
+}
+#dni {
+	float: left;
+	margin-left: 25px;
+}
+#origin {
+	float: left;
+	margin-left: 35px;
+}
+#been {
+	float: left;
+	margin-left: 45px;
+}
+#age {
+	float: left;
+	margin-left: 90px;
+}
+
+#navs{
+	width: 100%;
+	height: 26px;
+	width: 100%;
+	/*border: 1px solid green;*/
+}
+#call {
+	text-decoration: none;
+	color: black;
+	float: left;
+}
+
+#telfic{
+	height:23px; 
+	width:18px;
+	margin: 2px 2px;
+	float: left;
+}
+
+#telfnu{
+	/*border: 1px solid blue;*/
+	height: 22px;
+	width: 165px;
+	padding: 2px;	
+}
+
+#gps{
+	text-decoration: none;
+	color: black;
+	float: left;
+}
+
+#locic{
+	height:20px; 
+	width:14px;
+	margin: 2px 15px;
+	float: left;
+}
+
+#loc{
+	/*border: 1px solid red;*/
+	height: 20px;
+	padding: 2px;
+	width: 107px;
+}
